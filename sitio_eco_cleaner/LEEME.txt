@@ -1,0 +1,24 @@
+ECO CLEANER - SITIO WEB
+
+Qué hay en esta carpeta
+  index.html            la página del proyecto
+  animacion/index.html  animación 3D (compu)
+  celular/index.html    animación 3D para celular
+
+Cómo ponerlo en Internet gratis (la forma más simple)
+  1. Descomprimí este zip.
+  2. Entrá a app.netlify.com/drop y arrastrá la carpeta "sitio_eco_cleaner" completa.
+  3. Te da una dirección que termina en .netlify.app. Esa es la dirección real de la página.
+  4. Para actualizar el sitio, volvé a arrastrar la carpeta.
+
+Otras opciones gratuitas: GitHub Pages (repositorio público), Cloudflare Pages.
+
+Dirección propia (por ejemplo ecocleaner.com.ar)
+  Se registra en nic.ar (consultá el precio actual) y se conecta desde el panel del hosting
+  siguiendo sus instrucciones de DNS.
+
+Cuando tengan la dirección final, pasásela a Claude para rehacer los códigos QR.
+
+Para tener en cuenta
+  - La página es pública y la pueden encontrar en buscadores. Incluye los nombres del equipo.
+  - La animación 3D necesita Internet para cargar su librería.
